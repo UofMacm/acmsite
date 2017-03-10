@@ -43,11 +43,12 @@ h6 {
     position: relative;
     padding-top: 20%;
     padding-bottom: 20%;
+
 }
 
 .intro-message > h1 {
     margin: 0;
-    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    text-shadow: 8px 8px 3px rgba(0,0,0,0.6);
     font-size: 5em;
 }
 
@@ -58,7 +59,7 @@ h6 {
 }
 
 .intro-message > h3 {
-    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    text-shadow: 8px 8px 3px rgba(0,0,0,0.6);
 }
 
 @media(max-width:767px) {
@@ -83,6 +84,10 @@ h6 {
     .intro-divider {
         width: 100%;
     }
+}
+#Keyboard {
+
+
 }
 
 .network-name {
@@ -116,7 +121,7 @@ h6 {
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
-    background: url(../img/banner-bg.jpg) no-repeat center center;
+    background: url(../img/Tech-Banner.jpg) no-repeat center center;
     background-size: cover;
 }
 
